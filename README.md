@@ -4,10 +4,12 @@
 
 ```
 Conda create -p house python==3.8 -y
+
+conda activate house/
 ```
 
 ### Install all necessary libraries
 
 ```
-[pip install -r requirements.txt
+pip install -r requirements.txt
 ```
